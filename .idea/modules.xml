@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/setup-project-java-maven.iml" filepath="$PROJECT_DIR$/.idea/setup-project-java-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atm-scala-project.iml" filepath="$PROJECT_DIR$/atm-scala-project.iml" />
     </modules>
   </component>
 </project>
